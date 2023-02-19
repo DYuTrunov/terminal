@@ -1,0 +1,9 @@
+{
+	"person_name": "Dmitry",
+	"person_age": 35,
+	"person_devices": {
+				"device_1": "POCO F3",
+				"device_2": "Laptop win11"
+	}
+}
+
