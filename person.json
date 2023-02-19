@@ -3,7 +3,7 @@
 	"person_age": 35,
 	"person_devices": {
 				"device_1": "POCO F3",
-				"device_2": "Laptop win11"
+				"device_2": "Laptop win11",
+				"device_3": "PC win 11"
 	}
 }
-
