@@ -1,0 +1,15 @@
+#!/bin/bash
+#Зайти в папку
+cd term_dir_3
+#Создать 3 папки
+mkdir dir_1 dir_2 dir_3
+#Зайти в любую папку
+cd dir_2
+#Создать 5 файлов (3 txt, 2 json)
+touch term_1.txt term_1_2.txt term_1_3.txt persons_1.json devices_1.json
+#Создать 3 папки
+mkdir cat_1 cat_1_2 cat_1_3
+#Вывести список содержимого папки
+ls -la ../dir_2
+#переместить любые 2 файла, которые вы создали, в любую другую папку
+mv term_1_2.txt persons_1.json ../dir_3
